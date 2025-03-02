@@ -2,13 +2,13 @@ import React from "react";
 import "./index.css";
 
 const projects = [
-  { id: 1, name: "Buddy System", image: "./BDS.jpeg", link: " https://buddy-system-chi.vercel.app/" },
+  { id: 1, name: "BUDDY SYSTEM", image: "./BDS.jpeg", link: " https://buddy-system-chi.vercel.app/" },
   { id: 2, name: "CBCS SELECTION", image: "./CBCS.jpeg", link: "https://sathyabama-cbcs.vercel.app/" },
   { id: 3, name: "STUDENT MARK ANALYSIS", image: "./MARK ANALYSIS.jpeg", link: "https://student-mark-analysis-r7ar.onrender.com/" },
-  { id: 4, name: "Arrear Notes", image: "/ARREAR MANEGEMENT.jpeg", link: "https://project-setup-1.onrender.com/" },
-  { id: 5, name: "Arrear Management System", image: "/AMS.jpeg", link: "https://arrear-managament.onrender.com/" },
-  { id: 6, name: "IT-Seminar Hall Booking", image: "/SEMINAR HALL.jpeg", link: "https://it-dept-event-hall-booking.vercel.app/" },
-  { id: 7, name: "Mentor-Mentee", image: "/SEMINAR HALL.jpeg", link: "https://it-dept-event-hall-booking.vercel.app/" },
+  { id: 4, name: "ARREAR NOTES", image: "/ARREAR MANEGEMENT.jpeg", link: "https://project-setup-1.onrender.com/" },
+  { id: 5, name: "ARREAR MANAGEMENT SYSTEM", image: "/AMS.jpeg", link: "https://arrear-managament.onrender.com/" },
+  { id: 6, name: "IT-SEMINAR HALL BOOKING", image: "/SEMINAR HALL.jpeg", link: "https://it-dept-event-hall-booking.vercel.app/" },
+  { id: 7, name: "MENTOR-MENTEE", image: "/mentor.webp", link: "https://it-dept-event-hall-booking.vercel.app/" },
 
 ];
 
@@ -42,7 +42,7 @@ export default function App() {
         href={project.link}
         className="inline-block mt-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
       >
-        View Project
+        View
       </a>
     </div>
   ))}
