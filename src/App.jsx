@@ -8,7 +8,7 @@ const projects = [
   { id: 4, name: "ARREAR NOTES", image: "/ARREAR MANEGEMENT.jpeg", link: "https://project-setup-1.onrender.com/" },
   { id: 5, name: "ARREAR MANAGEMENT SYSTEM", image: "/AMS.jpeg", link: "https://arrear-managament.onrender.com/" },
   { id: 6, name: "IT-SEMINAR HALL BOOKING", image: "/SEMINAR HALL.jpeg", link: "https://it-dept-event-hall-booking.vercel.app/" },
-  { id: 7, name: "MENTOR-MENTEE", image: "/mentor.webp", link: "https://it-dept-event-hall-booking.vercel.app/" },
+  { id: 7, name: "MENTOR-MENTEE", image: "/mentor.jpeg", link: "https://it-dept-event-hall-booking.vercel.app/" },
 
 ];
 
